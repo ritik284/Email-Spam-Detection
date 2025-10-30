@@ -1,0 +1,23 @@
+not spam
+1-Hi team, please find the attached report for this week's performance review.
+2-Your monthly bank statement is now available. Please log in to your account to view it securely.
+3-Hey, are we still meeting for dinner tonight? Let me know!
+4-Thank you for reaching out to our support team. We will get back to you within 24 hours.
+5-Welcome to our newsletter! Stay tuned for the latest updates and special offers.
+6-"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat..."
+7-"Ok lar... Joking wif u oni..."
+8-"U dun say so early hor... U c already then say..."
+
+
+
+spam 
+1-You have won $1,000,000 in our online lottery! Claim your winnings now by clicking this link.
+2-"Free entry in 2 a wkly comp to win FA Cup final tickets, text FA to 87121 to receive entry question(std txt rate)T&C’s apply 08452810075over18’s"
+3-"WINNER!! As a valued network customer you have been selected to receive a £900 prize reward! Call 09061701461. Claim code KL341. Valid 12 hours only."
+4-"Congratulations! You’ve won a free iPhone! Click here to claim your prize."
+5-"URGENT! Your account has been compromised. Click this link to reset your password immediately."
+6-Subject: "Dear Customer, You Have an Unclaimed Lottery Prize!"
+"Congratulations! Your email has been selected in our lottery draw. You have won $1,000,000! To claim your winnings, provide your full details by clicking below."
+
+7-"Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question (std txt rate) T&C's apply 08452810075 over18's"
+8-"URGENT! You have won a 1-week FREE membership in our £100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18"
